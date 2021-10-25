@@ -1,4 +1,4 @@
-# Don't wait for assign just fixe problem and generate PR if it relevent then we will marge
+# Don't wait for assign just fix problem and generate PR if it relevent then we will marge
 
 [![Build Status](https://travis-ci.org/Showndarya/Hacktoberfest.svg?branch=master)](https://travis-ci.org/Showndarya/Hacktoberfest)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
