@@ -1,4 +1,4 @@
-# Don't wait for assign just fix problem and generate PR. If it relevent then it will marged
+# Don't wait for assigning, just fix the problem and generate PR. If it is relevent then it will merged
 
 [![Build Status](https://travis-ci.org/Showndarya/Hacktoberfest.svg?branch=master)](https://travis-ci.org/Showndarya/Hacktoberfest)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
